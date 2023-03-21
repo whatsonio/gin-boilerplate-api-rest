@@ -11,6 +11,7 @@ We are looking for solution to reproduce response and comportement of nestJs in 
 - Error api on fields
 - Swagger
 - Unit and functionals tests
+- ReadyZ : Check if database is ready 
 
 ## Presentation
 
